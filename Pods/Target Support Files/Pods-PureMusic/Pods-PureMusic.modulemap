@@ -1,0 +1,6 @@
+framework module Pods_PureMusic {
+  umbrella header "Pods-PureMusic-umbrella.h"
+
+  export *
+  module * { export * }
+}
